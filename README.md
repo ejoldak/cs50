@@ -1,2 +1,7 @@
-# cs50
-Harvard CS50
+Hey there!
+
+I'm EJ Oldak.
+
+Mechanical engineer, self-taught computer scientist.
+
+Follow my journey here :) 
