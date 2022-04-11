@@ -2,6 +2,6 @@ Hey there!
 
 I'm EJ Oldak.
 
-Mechanical engineer, self-taught computer scientist.
+Mechanical engineer, self-taught programmer.
 
 Follow my journey here :) 
